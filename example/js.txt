@@ -1,0 +1,53 @@
+TASK: Variables - []
+
+TASK: Data Types - []
+
+TASK: Operators - []
+
+TASK: Functions - []
+
+TASK: Hoisting - []
+
+TASK: Conditionals - []
+
+TASK: Scope and Closures - []
+
+TASK: Loops - []
+
+TASK: Arrays - []
+
+TASK: Objects - []
+
+TASK: This Keyword - []
+
+TASK: Classes (ES6) - []
+
+TASK: Prototype and Inheritance - []
+
+TASK: Function methods - []
+
+TASK: Error Handling - []
+
+TASK: Nullish Coalescing (??) - []
+
+TASK: Optional Chaining (?.) - []
+
+TASK: Destructuring - []
+
+TASK: Modules (ES6) - []
+
+TASK: Async / Await - []
+
+TASK: Strict Mode - []
+
+TASK : Set and Map - []
+
+TASK: Generator Functions - []
+
+TASK: Async Generators - []
+
+TASK: Iterators and Iterables - []
+
+TASK: Symbol (ES6) - []
+
+TASK: BigInt (ES2020) - []

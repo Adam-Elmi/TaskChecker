@@ -1,0 +1,21 @@
+TASK: Variables - []
+
+TASK: Data Types - []
+
+TASK: Conditionals - []
+
+TASK: Loops - []
+
+TASK: Functions - []
+
+TASK: Tables - []
+
+TASK: Metatables - []
+
+TASK: Metamethods - []
+
+TASK: Error Handling - []
+
+TASK: Modules - []
+
+TASK: File Handling - []

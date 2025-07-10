@@ -1,0 +1,35 @@
+TASK: Main Function - []
+
+TASK: Data Types - []
+
+TASK: Variables - []
+ 
+TASK: Operators - []
+
+TASK: Conditionals - []
+
+TASK: Loops - []
+ 
+TASK: Functions - []
+ 
+TASK: Arrays - []
+ 
+TASK: Enums - []
+ 
+TASK: Structures - []
+
+TASK: Typedef - []
+ 
+TASK: Pointers - []
+ 
+TASK: Memory Management - []
+ 
+TASK: Preprocessors Directives - []
+ 
+TASK: Header Files - []
+ 
+TASK: File Handling - []
+
+TASK: Command-Line Arguments - []
+ 
+TASK: Bitwise - []
