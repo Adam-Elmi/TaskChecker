@@ -1,3 +1,4 @@
-> ## [July 10]
-  - Start the project
-  - **TODO**: Access all .md files
+> ## [July 11]
+  - [ ] Start the project
+  - [ ] Access all .txt files
+  - [ ] Access all .md files
